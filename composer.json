@@ -1,0 +1,13 @@
+{
+    "name": "engsof/testecomposer",
+    "type": "project",
+    "authors": [
+        {
+            "name": "talissonaf",
+            "email": "web2.di.capital@unigran.br"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^2.73"
+    }
+}
